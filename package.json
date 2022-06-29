@@ -1,0 +1,25 @@
+{
+  "name": "node_elementry",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "webserver.js",
+  "scripts": {
+    "start": "nodemon webserver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArvindLingwal/node_js_elementry.git"
+  },
+  "author": "Arvind Lingwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArvindLingwal/node_js_elementry/issues"
+  },
+  "homepage": "https://github.com/ArvindLingwal/node_js_elementry#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
